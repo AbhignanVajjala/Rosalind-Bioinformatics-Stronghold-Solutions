@@ -1,4 +1,4 @@
-'''
+''' 
 Solution for question 2 of Rosalind Bioinformatics stronghold
 Title: Transcribing DNA into RNA
 '''
