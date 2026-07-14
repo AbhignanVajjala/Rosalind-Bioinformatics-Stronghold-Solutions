@@ -1,4 +1,4 @@
-'''
+''' 
 Solution for question 5 of Rosalind Bioinformatics stronghold
 Title: Computing GC Content
 Given data:
