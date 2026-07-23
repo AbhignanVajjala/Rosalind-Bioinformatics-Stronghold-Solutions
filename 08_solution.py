@@ -2,7 +2,7 @@
 Solution for question 8 of Rosalind Bioinformatics stronghold
 Title: Translating RNA into Protein
 '''
-rna_codon_to_symbol= {
+rna_codon_to_symbol= { #Obtained this dictionary from the internet
     'UUU': 'F', 'UUC': 'F', 'UUA': 'L', 'UUG': 'L',
     'UCU': 'S', 'UCC': 'S', 'UCA': 'S', 'UCG': 'S',
     'UAU': 'Y', 'UAC': 'Y', 'UAA': 'Stop', 'UAG': 'Stop',
