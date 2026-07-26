@@ -3,6 +3,8 @@ Solution for question 10 of Rosalind Bioinformatics stronghold
 Title: Consensus and Profile
 Given: A collection of at most 10 DNA strings of equal length in FASTA format
 '''
+# Usage of triple quotes to make the whole data reside in a string
+
 fasta_file=""">Rosalind_6031
 GACCTATTCAGTAGACGTTTCAGAGTTAAGGGAGGGTCTTTCATGTGTGATATACTTTAC
 GCTTGTGTGCTGACCTCCGGTTAGCGCTTCCTCGGTTTTACTAGAGTGGGCATGATCGTG
