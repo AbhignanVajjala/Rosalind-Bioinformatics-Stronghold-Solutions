@@ -6,8 +6,10 @@ Given: Positive integers n<=100 and m<=20
 #Each pair of rabbits reaches maturity in one month and produces a single pair of offspring
 #Rabbits live for the given 'm' months
 
-n=94 #number of months
-m=18 #months of rabbit lifespan
+# n=94 #number of months
+# m=18 #months of rabbit lifespan
+
+n,m=list(map(int,input().split()))
 
 '''
 1. Starts with 1 baby pair in the first month
